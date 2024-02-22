@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tJgWSpVZLiMycMzyjBz
     access-key-secret: CjFeh5Hlu1LBmlhEZUF23ObfPSjaqB
     bucket-name: web-sky-take-out-test
+  redis:
+    host: localhost
+    port: 6379
+    #password: hjb20040116
+    #database: 10
